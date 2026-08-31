@@ -1,6 +1,9 @@
 # GateKeeper: asynchronous report API
 
-[Link to the Google Doc](https://docs.google.com/document/d/1KmkKKUGn-8br1p-KeK0gNvdp6G0V0r5U/edit)
+Link to Recorded Walkthrough:
+https://youtu.be/mr0rsrCd7xo
+
+Slideshow presentation in the root directory of repo
 
 This complete starter repository accompanies the `202 Accepted + Job + Worker`
 empirical lab. It preserves the synchronous lab's request and report, while
